@@ -1,0 +1,11 @@
+ li {
+    background: #cce5ff;
+    color: darkblue;
+    margin: 5px;
+}
+
+.custom-paragraph {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 20px;
+}
